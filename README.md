@@ -153,5 +153,11 @@ Confirmation Number: DUM88412283
 Booking Canceled:
 {'refunded': 1, 'cancelled': 1, 'coupon_code': None}
 
-<img width="1157" alt="image" src="https://github.com/saminov19/mozio_task/assets/39556766/c59a6190-6ca7-4c08-9a93-96383204667c">
+
+![alt text](https://github.com/saminov19/mozio_task/assets/39556766/b4dee18a-762e-4ae3-be5c-f1eb7540c34c)
+
+
+![image](https://github.com/saminov19/mozio_task/assets/39556766/fc2b3935-5cf1-41f5-9e85-e77fb2bf917f)
+
+
 
